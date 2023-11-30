@@ -1,0 +1,34 @@
+/* FILEPATH: /C:/Users/mariam/Documents/5IIR/JEE/ang/smarthouse/src/app/app.component.css */
+
+.navbar {
+    background-color: #bad1e9;
+    padding: 10px;
+}
+
+.navbar-toggler {
+    border: none;
+    background-color: transparent;
+    color: #000; /* Updated color to black */
+}
+
+.navbar-toggler:hover {
+    color: rgb(71, 72, 141);
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    margin-right: 10px;
+}
+
+.nav-link {
+    color: #000; 
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: rgb(71, 72, 141);
+}
