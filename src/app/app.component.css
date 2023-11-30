@@ -1,18 +1,20 @@
 /* FILEPATH: /C:/Users/mariam/Documents/5IIR/JEE/ang/smarthouse/src/app/app.component.css */
 
 .navbar {
-    background-color: #bad1e9;
-    padding: 10px;
+    background-color: #000000;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
 }
 
 .navbar-toggler {
     border: none;
     background-color: transparent;
-    color: #000; /* Updated color to black */
+    color: #333;
+    font-size: 18px;
 }
 
 .navbar-toggler:hover {
-    color: rgb(71, 72, 141);
+    color: #ffffff;
 }
 
 .navbar-nav {
@@ -20,15 +22,15 @@
 }
 
 .nav-item {
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 .nav-link {
-    color: #000; 
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 .nav-link:hover {
-    color: rgb(71, 72, 141);
+    color: #9e9c9c;
 }
